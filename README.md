@@ -3,3 +3,4 @@ A 5-course Specialization in Deep Learning on Coursera by "deeplearning.ai" (And
 
 ## 1. 
 My ***Python Jupiter Notebook*** `.ipynb` solutions to programming assignments of  course
+No Quizzes attached as it was not coding related
