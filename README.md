@@ -6,4 +6,4 @@ My ***Python Jupyter Notebook*** `.ipynb` solutions to programming assignments o
 
 
 > Note:
-No Quizzes attached as it was not coding related
+No Quizzes attached as it were not coding related
