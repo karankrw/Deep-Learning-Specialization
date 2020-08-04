@@ -7,7 +7,8 @@ My ***Python Jupyter Notebook*** `.ipynb` solutions to programming assignments o
 ## 2. Improving Deep Neural Networks
 My ***Python Jupyter Notebook*** `.ipynb` solutions to programming assignments of course 2 of 5<br />
 
-
+## 3. Structuring Machine Learning Projects
+No programming assignments only ***Case Studies(Quizzes)***
 
 > Note:
 No Quizzes attached as it were not coding related
