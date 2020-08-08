@@ -10,5 +10,8 @@ My ***Python Jupyter Notebook*** `.ipynb` solutions to programming assignments o
 ## 3. Structuring Machine Learning Projects
 No programming assignments only ***Case Studies(Quizzes)***
 
+## 4. Convolutional Neural Networks
+My ***Python Jupyter Notebook*** `.ipynb` solutions to programming assignments of course 4 of 5<br />
+
 > Note:
 No Quizzes attached as it were not coding related
